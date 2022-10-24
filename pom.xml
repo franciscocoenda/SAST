@@ -36,7 +36,7 @@
         <io-jsonwebtoken.version>0.11.5</io-jsonwebtoken.version>
         <java-money-moneta.version>1.4.2</java-money-moneta.version>
         <okhttp.version>4.9.3</okhttp.version>
-        <shedlock.version>4.34.0</shedlock.version>
+        <shedlock.version>4.42.0</shedlock.version>
 
         <spring.boot.version>2.6.7</spring.boot.version>
         <spring-cloud-stream.version>3.2.3</spring-cloud-stream.version>
