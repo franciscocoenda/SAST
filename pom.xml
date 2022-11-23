@@ -44,7 +44,7 @@
         <spring-cloud-dependencies.version>2021.0.2</spring-cloud-dependencies.version>
         <spring-cloud-contract.version>3.1.2</spring-cloud-contract.version>
         <spring-statemachine.version>3.2.0</spring-statemachine.version>
-        <spring-security.version>5.6.4</spring-security.version>
+        <spring-security.version>5.7.5</spring-security.version>
 
         <vavr.version>0.10.4</vavr.version>
 
