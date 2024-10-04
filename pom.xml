@@ -29,7 +29,7 @@
         <awaitility.version>4.2.0</awaitility.version>
         <caffeine.version>3.1.0</caffeine.version>
         <jackson-datatype-money.version>1.3.0</jackson-datatype-money.version>
-        <commons-io.version>2.11.0</commons-io.version>
+        <commons-io.version>2.14.0</commons-io.version>
         <commons-lang3.version>3.11</commons-lang3.version>
         <commons-codec.version>1.15</commons-codec.version>
         <git-commit-id-plugin.version>2.2.4</git-commit-id-plugin.version>
